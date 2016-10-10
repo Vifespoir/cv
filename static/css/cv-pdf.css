@@ -194,8 +194,8 @@ img {
 max-height: 1.1em;
 box-sizing: border-box;
 margin-bottom: -2px;
-margin-left: 20px;
-margin-right: 20px;
+margin-left: 16px;
+margin-right: 16px;
 }
 p > img:first-child {
   margin-left: 2px;

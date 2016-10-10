@@ -2,7 +2,7 @@
 ![](/home/vifespoir/github/cv/static/portrait/portrait.jpg "")
 
 # Étienne POUGET
-![em][em]<etienne.pouget@outlook.com> [![li][li]LinkedIn][li-w] [![gh][gh]GitHub][gh-w] [![wb][pr]Website][pr-w]  
+![em][em]<etienne.pouget@outlook.com> [![li][li]LinkedIn][li-w] [![gh][gh]GitHub][gh-w] [![wb][pr]Website][pr-w] ![mb][mb]+34 663 729 061  
 Fast-learner with international experience seeking opportunity in Data Analysis Barcelona.
 
 ***
@@ -102,32 +102,42 @@ Fast-learner with international experience seeking opportunity in Data Analysis 
 <!-- Professional experience -->
 [3s]: /home/vifespoir/github/cv/static/logos/extended/3scale.png "3scale"
 [3s-w]: https://3scale.net/
+
 [nn]: /home/vifespoir/github/cv/static/logos/extended/nanocloud.png "nanocloud"
 [nn-w]: https://www.nanocloud.com
+
 [nz]: /home/vifespoir/github/cv/static/logos/extended/nz.png "new zealand"
 [nz-w]: https://www.immigration.govt.nz/new-zealand-visas/options/work/thinking-about-coming-to-new-zealand-to-work/working-holiday-visa
+
 [lg]: /home/vifespoir/github/cv/static/logos/extended/lgbc.png "lgbc"
 [lg-w]: http://www.lgbc.uvsq.fr/laboratoire-de-genetique-et-biologie-cellulaire-lgbc-/langue-en/
+
 <!-- Education -->
 [nm]: /home/vifespoir/github/cv/static/logos/extended/neoma.png "neoma"
 [nm-w]: http://www.neoma-bs.com/en/
+
 [uv]: /home/vifespoir/github/cv/static/logos/extended/uvsq.png "uvsq"
 [uv-w]: http://welcome.uvsq.fr/
 
 <!-- Country flags -->
-[france]: /home/vifespoir/github/cv/static/flags/small/france.png "French"
-[usa]: /home/vifespoir/github/cv/static/flags/small/usa.png "English"
-[spain]: /home/vifespoir/github/cv/static/flags/small/spain.png "Spanish"
+[france]: /home/vifespoir/github/cv/static/flags/extended/france.png "French"
+[usa]: /home/vifespoir/github/cv/static/flags/extended/usa.png "English"
+[spain]: /home/vifespoir/github/cv/static/flags/extended/spain.png "Spanish"
 
 <!-- Social icons -->
 [li]: /home/vifespoir/github/cv/static/icons/extended/linkedin.png "LinkedIn"
-[gh]: /home/vifespoir/github/cv/static/icons/extended/github.png "GitHub"
-[pr]: /home/vifespoir/github/cv/static/icons/extended/unlink.png "Website"
-[em]: /home/vifespoir/github/cv/static/icons/extended/mail.png "Email"
 [li-w]: https://www.linkedin.com/in/etienne-pouget
+
+[gh]: /home/vifespoir/github/cv/static/icons/extended/github.png "GitHub"
 [gh-w]: https://github.com/Vifespoir
+
+[pr]: /home/vifespoir/github/cv/static/icons/extended/unlink.png "Website"
 [pr-w]: https://etiennepouget.com/
+
+[em]: /home/vifespoir/github/cv/static/icons/extended/mail.png "Email"
 [em-w]: mailto://etienne.pouget@outlook.com
+
+[mb]: /home/vifespoir/github/cv/static/icons/extended/phone.png "Mobile"
 
 <!-- Publications -->
 [pub-1]: https://www.3scale.net/2015/09/european-banking-authority-new-era-of-open-banking/
