@@ -2,7 +2,7 @@
 ![](/home/vifespoir/github/cv/static/portrait/portrait.jpg "")
 
 # Étienne POUGET
-![em][em]<etienne.pouget@outlook.com> [![li][li]LinkedIn][li-w] [![gh][gh]GitHub][gh-w] [![wb][pr]Website][pr-w]
+![em][em]<etienne.pouget@outlook.com> [![li][li]LinkedIn][li-w] [![gh][gh]GitHub][gh-w] [![wb][pr]Website][pr-w]  
 Curieux et autonome, en recherche d’une opportunité sur Barcelone.
 
 ***
