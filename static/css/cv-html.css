@@ -1,6 +1,9 @@
 /*Open+Sans:300,400,700
 Roboto:400,500,700*/
 @import 'https://fonts.googleapis.com/css?family=Roboto:500,900&subset=latin-ext';
+html {
+  background-color: ghostwhite;
+}
 body {
 overflow: auto;
 border-style: solid;
@@ -10,6 +13,7 @@ border-radius: 6px;
 max-width: 800px;
 margin: auto;
 font-family: 'Roboto';
+background-color: white;
 }
 strong {
 color: black;
@@ -194,8 +198,8 @@ img {
 max-height: 1.1em;
 box-sizing: border-box;
 margin-bottom: -2px;
-margin-left: 20px;
-margin-right: 20px;
+margin-left: 16px;
+margin-right: 16px;
 }
 p > img:first-child {
   margin-left: 2px;
@@ -208,7 +212,7 @@ td > img {
 figure img:first-of-type {
   max-height: 64px;
   float: left;
-  margin-top: -8px;
+  margin-top: -7px;
   margin-bottom: -6px;
   margin-left: -33px;
   margin-right: 20px;
