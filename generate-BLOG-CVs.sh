@@ -1,10 +1,10 @@
 #!/bin/sh
-CURRENT_DATE=$(/bin/date +%Y-%m-%d)
+BASEDIR=$(dirname $0)
 echo 'INFO: Files will be created at blog/'
-rm blog/cv-*.html
+rm $BASEDIR/blog/*.html
 echo 'INFO: converting english markdown to html'
-pandoc -s -t html5 --self-contained -c static/css/cv-html.css -B static/html/languages-en.html -o blog/cv-en-$CURRENT_DATE.html en/cv.md
+pandoc -s -t html5 --self-contained -c $BASEDIR/static/css/cv-html.css -B $BASEDIR/static/html/languages-en.html -o $BASEDIR/blog/en.html $BASEDIR/en/cv.md
 echo 'INFO: converting spanish markdown to html'
-pandoc -s -t html5 --self-contained -c static/css/cv-html.css -B static/html/languages-es.html -o blog/cv-es-$CURRENT_DATE.html es/cv.md
+pandoc -s -t html5 --self-contained -c $BASEDIR/static/css/cv-html.css -B $BASEDIR/static/html/languages-es.html -o $BASEDIR/blog/es.html $BASEDIR/es/cv.md
 echo 'INFO: converting french markdown to html'
-pandoc -s -t html5 --self-contained -c static/css/cv-html.css -B static/html/languages-fr.html -o blog/cv-fr-$CURRENT_DATE.html fr/cv.md
+pandoc -s -t html5 --self-contained -c $BASEDIR/static/css/cv-html.css -B $BASEDIR/static/html/languages-fr.html -o $BASEDIR/blog/fr.html $BASEDIR/fr/cv.md
