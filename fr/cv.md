@@ -3,11 +3,21 @@
 
 # Étienne POUGET
 ![em][em]<etienne.pouget@outlook.com> [![li][li]LinkedIn][li-w] [![gh][gh]GitHub][gh-w] [![wb][pr]Website][pr-w]  
-Curieux et autonome, en recherche d’une opportunité sur Barcelone.
+Curieux, autonome, et auto-didacte en recherche d’un emploi à temps partiel.
 
 ***
 
 ## Experience
+
+<h3 class="alignrlh3">
+|||
+|---|---:|
+|![aMazingCube][amazing3]aMazingCube - Versailles|Décembre 2016 - Présent|
+</h3>
+
+**Fondateur:**&nbsp;&nbsp;&nbsp;En cours de création d'entreprise. Conceptualisation d'un jeu hybride entre les *Escape Rooms* et les jeux connectés. Rédaction du plan d'affaire (en Anglais et en Français). Démarchage de distributeurs et de fabricants.
+**Prototypage:**&nbsp;&nbsp;&nbsp;Du concept à l'objet: réalisation d'un prototype (enveloppe et électronique) grâce à des logiciels de CAO.
+**Admin réseau:**&nbsp;&nbsp;&nbsp;Configuration d'un serveur Linux. Installation de Gitlab, Piwik, d'un server email, d'un site internet et d'application web maison derrière NGINX (un *reverse proxy*).
 
 <h3 class="alignrlh3">
 |||
@@ -66,15 +76,6 @@ stratégie d’entreprise; mention bien.
 
 ***
 
-## Projects
-**[Assistant Machine Learning](https://mlearning.etiennepouget.com) (en cours):**   Programmation d’une application d'aide au choix d’un algorithme. Capacité à tracer différents graphiques à partir de données propre. En cours: documentation, nettoyage et préparation des données, exécution de l’algorithme de machine learning choisi. Hébergement personnel (VPS) via un reverse proxy (NGINX).
-
-**[Blog Personnel:](https://etiennepouget.com)**&nbsp;&nbsp;&nbsp;Amélioration de [Pelican](http://blog.getpelican.com/) pour ajuster des images au diaporama [Bootstrap CSS](http://getbootstrap.com/). Personalisation du design via HTML et CSS.
-
-**[Générateur de noms:](https://name-generator.etiennepouget.com)**&nbsp;&nbsp;&nbsp;Utilisation de statistiques pour créer des noms d'une tranche d’âge donnée.  
-
-***
-
 ## Publications
 [Streaming APIs Are Paving The Way For Real-time, Agile Banking; December 16, 2015][pub-4]
 [Developers Will be the Cornerstone of the Banking APIs Revolution; September 25, 2015][pub-3]
@@ -102,6 +103,7 @@ stratégie d’entreprise; mention bien.
 ***
 
 <!-- Professional experience -->
+[amazing3]: /home/vifespoir/github/cv/static/logos/extended/amazingcube.png "aMazingCube"
 [3s]: /home/vifespoir/github/cv/static/logos/extended/3scale.png "3scale"
 [3s-w]: https://3scale.net/
 [nn]: /home/vifespoir/github/cv/static/logos/extended/nanocloud.png "nanocloud"
