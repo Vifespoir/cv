@@ -1,5 +1,5 @@
 ***
-![](/home/vifespoir/github/cv/static/portrait/portrait.jpg "")
+![](static/portrait/portrait.jpg "")
 
 # Étienne POUGET
 ![em][em]<etienne.pouget@outlook.com> [![li][li]LinkedIn][li-w] [![gh][gh]GitHub][gh-w] [![wb][pr]Website][pr-w]  
@@ -15,8 +15,8 @@ Curieux, autonome, et auto-didacte en recherche d’un emploi à temps partiel.
 |![aMazingCube][amazing3]aMazingCube - Versailles|Décembre 2016 - Présent|
 </h3>
 
-**Fondateur:**&nbsp;&nbsp;&nbsp;En cours de création d'entreprise. Conceptualisation d'un jeu hybride entre les *Escape Rooms* et les jeux connectés. Rédaction du plan d'affaire (en Anglais et en Français). Démarchage de distributeurs et de fabricants.
-**Prototypage:**&nbsp;&nbsp;&nbsp;Du concept à l'objet: réalisation d'un prototype (enveloppe et électronique) grâce à des logiciels de CAO.
+**Fondateur:**&nbsp;&nbsp;&nbsp;En cours de création d'entreprise. Conceptualisation d'un jeu hybride entre les *Escape Rooms* et les jeux connectés. Rédaction du plan d'affaire (en Anglais et en Français). Démarchage de distributeurs et de fabricants.  
+**Prototypage:**&nbsp;&nbsp;&nbsp;Du concept à l'objet: réalisation d'un prototype (enveloppe et électronique) grâce à des logiciels de CAO.  
 **Admin réseau:**&nbsp;&nbsp;&nbsp;Configuration d'un serveur Linux. Installation de Gitlab, Piwik, d'un server email, d'un site internet et d'application web maison derrière NGINX (un *reverse proxy*).
 
 <h3 class="alignrlh3">
@@ -103,31 +103,31 @@ stratégie d’entreprise; mention bien.
 ***
 
 <!-- Professional experience -->
-[amazing3]: /home/vifespoir/github/cv/static/logos/extended/amazingcube.png "aMazingCube"
-[3s]: /home/vifespoir/github/cv/static/logos/extended/3scale.png "3scale"
+[amazing3]: static/logos/extended/amazingcube.png "aMazingCube"
+[3s]: static/logos/extended/3scale.png "3scale"
 [3s-w]: https://3scale.net/
-[nn]: /home/vifespoir/github/cv/static/logos/extended/nanocloud.png "nanocloud"
+[nn]: static/logos/extended/nanocloud.png "nanocloud"
 [nn-w]: https://www.nanocloud.com
-[nz]: /home/vifespoir/github/cv/static/logos/extended/nz.png "new zealand"
+[nz]: static/logos/extended/nz.png "new zealand"
 [nz-w]: https://www.immigration.govt.nz/new-zealand-visas/options/work/thinking-about-coming-to-new-zealand-to-work/working-holiday-visa
-[lg]: /home/vifespoir/github/cv/static/logos/extended/lgbc.png "lgbc"
+[lg]: static/logos/extended/lgbc.png "lgbc"
 [lg-w]: http://www.lgbc.uvsq.fr/laboratoire-de-genetique-et-biologie-cellulaire-lgbc-/langue-en/
 <!-- Education -->
-[nm]: /home/vifespoir/github/cv/static/logos/extended/neoma.png "neoma"
+[nm]: static/logos/extended/neoma.png "neoma"
 [nm-w]: http://www.neoma-bs.com/en/
-[uv]: /home/vifespoir/github/cv/static/logos/extended/uvsq.png "uvsq"
+[uv]: static/logos/extended/uvsq.png "uvsq"
 [uv-w]: http://welcome.uvsq.fr/
 
 <!-- Country flags -->
-[france]: /home/vifespoir/github/cv/static/flags/small/france.png "French"
-[usa]: /home/vifespoir/github/cv/static/flags/small/usa.png "English"
-[spain]: /home/vifespoir/github/cv/static/flags/small/spain.png "Spanish"
+[france]: static/flags/small/france.png "French"
+[usa]: static/flags/small/usa.png "English"
+[spain]: static/flags/small/spain.png "Spanish"
 
 <!-- Social icons -->
-[li]: /home/vifespoir/github/cv/static/icons/extended/linkedin.png "LinkedIn"
-[gh]: /home/vifespoir/github/cv/static/icons/extended/github.png "GitHub"
-[pr]: /home/vifespoir/github/cv/static/icons/extended/unlink.png "Website"
-[em]: /home/vifespoir/github/cv/static/icons/extended/mail.png "Email"
+[li]: static/icons/extended/linkedin.png "LinkedIn"
+[gh]: static/icons/extended/github.png "GitHub"
+[pr]: static/icons/extended/unlink.png "Website"
+[em]: static/icons/extended/mail.png "Email"
 [li-w]: https://www.linkedin.com/in/etienne-pouget
 [gh-w]: https://github.com/Vifespoir
 [pr-w]: https://etiennepouget.com/

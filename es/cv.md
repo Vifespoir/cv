@@ -1,5 +1,5 @@
 ***
-![](/home/vifespoir/github/cv/static/portrait/portrait.jpg "")
+![](static/portrait/portrait.jpg "")
 
 # Étienne POUGET
 ![em][em]<etienne.pouget@outlook.com> [![li][li]LinkedIn][li-w] [![gh][gh]GitHub][gh-w] [![wb][pr]Website][pr-w]  
@@ -100,30 +100,30 @@ Autodidacta y capaz de aprender rápidamente buscando una oportunidad en Barcelo
 ***
 
 <!-- Professional experience -->
-[3s]: /home/vifespoir/github/cv/static/logos/extended/3scale.png "3scale"
+[3s]: static/logos/extended/3scale.png "3scale"
 [3s-w]: https://3scale.net/
-[nn]: /home/vifespoir/github/cv/static/logos/extended/nanocloud.png "nanocloud"
+[nn]: static/logos/extended/nanocloud.png "nanocloud"
 [nn-w]: https://www.nanocloud.com
-[nz]: /home/vifespoir/github/cv/static/logos/extended/nz.png "new zealand"
+[nz]: static/logos/extended/nz.png "new zealand"
 [nz-w]: https://www.immigration.govt.nz/new-zealand-visas/options/work/thinking-about-coming-to-new-zealand-to-work/working-holiday-visa
-[lg]: /home/vifespoir/github/cv/static/logos/extended/lgbc.png "lgbc"
+[lg]: static/logos/extended/lgbc.png "lgbc"
 [lg-w]: http://www.lgbc.uvsq.fr/laboratoire-de-genetique-et-biologie-cellulaire-lgbc-/langue-en/
 <!-- Education -->
-[nm]: /home/vifespoir/github/cv/static/logos/extended/neoma.png "neoma"
+[nm]: static/logos/extended/neoma.png "neoma"
 [nm-w]: http://www.neoma-bs.com/en/
-[uv]: /home/vifespoir/github/cv/static/logos/extended/uvsq.png "uvsq"
+[uv]: static/logos/extended/uvsq.png "uvsq"
 [uv-w]: http://welcome.uvsq.fr/
 
 <!-- Country flags -->
-[france]: /home/vifespoir/github/cv/static/flags/small/france.png "French"
-[usa]: /home/vifespoir/github/cv/static/flags/small/usa.png "English"
-[spain]: /home/vifespoir/github/cv/static/flags/small/spain.png "Spanish"
+[france]: static/flags/small/france.png "French"
+[usa]: static/flags/small/usa.png "English"
+[spain]: static/flags/small/spain.png "Spanish"
 
 <!-- Social icons -->
-[li]: /home/vifespoir/github/cv/static/icons/extended/linkedin.png "LinkedIn"
-[gh]: /home/vifespoir/github/cv/static/icons/extended/github.png "GitHub"
-[pr]: /home/vifespoir/github/cv/static/icons/extended/unlink.png "Website"
-[em]: /home/vifespoir/github/cv/static/icons/extended/mail.png "Email"
+[li]: static/icons/extended/linkedin.png "LinkedIn"
+[gh]: static/icons/extended/github.png "GitHub"
+[pr]: static/icons/extended/unlink.png "Website"
+[em]: static/icons/extended/mail.png "Email"
 [li-w]: https://www.linkedin.com/in/etienne-pouget
 [gh-w]: https://github.com/Vifespoir
 [pr-w]: https://etiennepouget.com/
