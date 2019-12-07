@@ -2,3 +2,4 @@ wkhtmltox/
 *.pdf
 cv-*.html
 *.txt
+node_modules/
