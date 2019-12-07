@@ -10,7 +10,7 @@ border-style: solid;
 border-color: ghostwhite;
 border-width: 5px;
 border-radius: 6px;
-max-width: 800px;
+max-width: 80%;
 margin: auto;
 font-family: 'Roboto';
 background-color: white;
@@ -24,7 +24,7 @@ outline: none;
 h1, h2, h3, h4, h5, h6 {
 position: relative;
 margin: 0px;
-line-height: 1.4;
+line-height: 2em;
 color: midnightblue;
 font-weight: bold;
 margin: 1px 4px;
@@ -35,22 +35,21 @@ margin-left: -30px;
 text-decoration: none;
 }
 h1 {
-font-size: 1.2em;
-line-height: 1.2;
+font-size: 2em;
 }
 figure + h1 {
   margin-left: 300px;
 }
 h2 {
-font-size: 1.1em;
-line-height: 1.1;
+font-size: 1.8em;
+line-height: 1.8em;
 border-bottom-width: 2px;
 border-bottom-style: solid;
 border-bottom-color: midnightblue;
 }
 h3 {
-font-size: 1em;
-line-height: 1;
+font-size: 1.5em;
+line-height: 1.5em;
 margin-bottom: 10px;
 }
 h4 {
@@ -103,7 +102,8 @@ hr:last-child::after {
 }
 p, blockquote, ul, ol, dl, pre {
 margin: 0;
-font-size:0.9em;
+font-size:1.5em;
+line-height: 1.8em;
 margin-bottom: 2px;
 padding: 0 4px;
 }
@@ -142,7 +142,8 @@ overflow: auto;
 word-break: keep-all;
 margin: 4px 0px;
 border-spacing: 0px;
-font-size: .8em;
+font-size: 1.2em;
+line-height: 1.5em;
 padding: 0 4px;
 }
 table td {
@@ -186,7 +187,7 @@ h3.alignrlh3 td {
   margin: 0;
 }
 h3.alignrlh3 table {
-  font-size: 1em;
+  font-size: 1.5em;
 }
 h1 + p {
   /*text-align: center;

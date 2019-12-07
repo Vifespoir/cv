@@ -3,26 +3,26 @@
 
 # Étienne POUGET
 ![em][em]<etienne.pouget@outlook.com> [![li][li]LinkedIn][li-w] [![gh][gh]GitHub][gh-w] [![wb][pr]Website][pr-w]  
-Curieux, autonome, et auto-didacte en recherche d’un emploi à temps partiel.
+Curieux, autonome, et auto-didacte en recherche d’emploi
 
 ***
 
 ## Experience
 
 <h3 class="alignrlh3">
-|||
-|---|---:|
-|![aMazingCube][amazing3]aMazingCube - Versailles|Décembre 2016 - Présent|
+|                                                  |                         |
+|:-------------------------------------------------|------------------------:|
+| ![aMazingCube][amazing3]aMazingCube - Versailles | Décembre 2016 - Présent |
 </h3>
 
 **Fondateur:**&nbsp;&nbsp;&nbsp;En cours de création d'entreprise. Conceptualisation d'un jeu hybride entre les *Escape Rooms* et les jeux connectés. Rédaction du plan d'affaire (en Anglais et en Français). Démarchage de distributeurs et de fabricants.  
-**Prototypage:**&nbsp;&nbsp;&nbsp;Du concept à l'objet: réalisation d'un prototype (enveloppe et électronique) grâce à des logiciels de CAO.  
+**Prototypage:**&nbsp;&nbsp;&nbsp;Du concept à l'objet: réalisation d'un prototype via découpe laser et impression 3D. Réalisation de circuits imprimé et programmation bas niveau sur Arduino et Raspberry Pi.  
 **Admin réseau:**&nbsp;&nbsp;&nbsp;Configuration d'un serveur Linux. Installation de Gitlab, Piwik, d'un server email, d'un site internet et d'application web maison derrière NGINX (un *reverse proxy*).
 
 <h3 class="alignrlh3">
-|||
-|---|---:|
-|[![3scale][3s]3scale - Barcelona][3s-w]|Décembre 2014 - Juin 2016|
+|                                         |                           |
+|:----------------------------------------|--------------------------:|
+| [![3scale][3s]3scale - Barcelona][3s-w] | Décembre 2014 - Juin 2016 |
 </h3>
 
 **Ventes et évènements:**&nbsp;&nbsp;&nbsp;Génération de prospects, suivi des clients par le biais d’emails, d’appels téléphoniques et de déplacements sur des salons et organisation de PoC.
@@ -34,24 +34,24 @@ Curieux, autonome, et auto-didacte en recherche d’un emploi à temps partiel.
 **Analyse de données:**&nbsp;&nbsp;&nbsp;Réparation et formatage de données financières en créant des algorithmes Python. Présentation de celles-ci avec SQL, exécution de jointure et de fonctions de fenêtre et de tableau croisé. Préparation de vues et mise en place de filtre de date et de catégories en utilisant [PeriscopeData.com](https://www.periscopedata.com/), outil de visualization.
 
 <h3 class="alignrlh3">
-|||
-|---|---:|
-|[![nanocloud][nn]Nanocloud - Paris][nn-w]|Août 2013 - Novembre 2013|
+|                                           |                           |
+|:------------------------------------------|--------------------------:|
+| [![nanocloud][nn]Nanocloud - Paris][nn-w] | Août 2013 - Novembre 2013 |
 </h3>
 **Stratégie:**&nbsp;&nbsp;&nbsp;Composition d’un business plan pour Nanocloud qui
 conduisit à une valorisation à €7 millions.
 
 <h3 class="alignrlh3">
-|||
-|---|---:|
-|[![WHV NZ][nz]WHV - Nouvelle-Zélande][nz-w]|Août 2011 - Avril 2012|
+|                                             |                        |
+|:--------------------------------------------|-----------------------:|
+| [![WHV NZ][nz]WHV - Nouvelle-Zélande][nz-w] | Août 2011 - Avril 2012 |
 </h3>
 **Jobs:**&nbsp;&nbsp;&nbsp;Serveur à Wellington, employé en ferme organique avec l’ONG [*WWOOF*](http://www.wwoof.net/).
 
 <h3 class="alignrlh3">
-|||
-|---|---:|
-|[![LGBC][lg]LGBC - Versailles, France][lg-w]|Juin 2010 - Juillet 2010|
+|                                              |                          |
+|:---------------------------------------------|-------------------------:|
+| [![LGBC][lg]LGBC - Versailles, France][lg-w] | Juin 2010 - Juillet 2010 |
 </h3>
 **Recherche:**&nbsp;&nbsp;&nbsp;Amélioration graduelle d’un protocol expérimental sur les drosophiles.
 
@@ -60,17 +60,17 @@ conduisit à une valorisation à €7 millions.
 ## Éducation
 
 <h3 class="alignrlh3">
-|||
-|---|---:|
-|[![NEOMA][nm]NEOMA Business School, Reims, France][nm-w]|2012 - 2015|
+|                                                          |             |
+|:---------------------------------------------------------|------------:|
+| [![NEOMA][nm]NEOMA Business School, Reims, France][nm-w] | 2012 - 2015 |
 </h3>
 **Master:**   Management et Commerce International, focus sur la
 stratégie d’entreprise; mention bien.
 
 <h3 class="alignrlh3">
-|||
-|---|---:|
-|[![UVSQ][uv]UVSQ, Versailles, France][uv-w]|2008 - 2011|
+|                                             |             |
+|:--------------------------------------------|------------:|
+| [![UVSQ][uv]UVSQ, Versailles, France][uv-w] | 2008 - 2011 |
 </h3>
 **Licence:**   Génétique, biologie cellulaire et biochimie.
 
@@ -85,20 +85,20 @@ stratégie d’entreprise; mention bien.
 ***
 
 #### Talents & Spécialisations
-|||||
-|---|---|---|---|
-|**Langues**|![Fr][france]Maternelle|![En][usa]Bilingue|![Sp][spain]Avancé|
-|**Stratégie**|Marketing Metrics|Stratégie Hybride|Business Development|
-|**Informatique**|Office Suite|Python, SQL|APIs, SaaS|
-|**Biologie**|Biologie Cellulaire|Génétique|Biotéchnologie|
+|                  |                         |                    |                      |
+|:-----------------|:------------------------|:-------------------|:---------------------|
+| **Langues**      | ![Fr][france]Maternelle | ![En][usa]Bilingue | ![Sp][spain]Avancé   |
+| **Stratégie**    | Marketing Metrics       | Stratégie Hybride  | Business Development |
+| **Informatique** | Office Suite            | Python, SQL        | APIs, SaaS           |
+| **Biologie**     | Biologie Cellulaire     | Génétique          | Biotéchnologie       |
 
 #### Interêts
-|||||
-|---|---|---|---|
-|**Voluntariat**|Animateur BAFA|WWOOF NZ|NEOMA ALUMNI, présent|
-|**Expérience à l'étranger**|États-Unis|Corée du Sud, Taïwan|Nouvelle-Zélande|
-|**Voyages**|Iran|Chine, Mongolie|Europe de l'Est, Ukraine|
-|**Passe-temps**|Cyclisme, Randonnées|Voile|Origami, Lecture|
+|                             |                      |                      |                          |
+|:----------------------------|:---------------------|:---------------------|:-------------------------|
+| **Voluntariat**             | Animateur BAFA       | WWOOF NZ             | NEOMA ALUMNI, présent    |
+| **Expérience à l'étranger** | États-Unis           | Corée du Sud, Taïwan | Nouvelle-Zélande         |
+| **Voyages**                 | Iran                 | Chine, Mongolie      | Europe de l'Est, Ukraine |
+| **Passe-temps**             | Cyclisme, Randonnées | Voile                | Origami, Lecture         |
 
 ***
 

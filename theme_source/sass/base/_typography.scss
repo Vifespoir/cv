@@ -1,0 +1,172 @@
+/*Open+Sans:300,400,700
+Roboto:400,500,700*/
+@import 'https://fonts.googleapis.com/css?family=Roboto:500,900&subset=latin-ext';
+
+@mixin size($size) {
+  font-size: $size * 1em;
+  line-height: $size * 1em;
+}
+@mixin generate_size_for_titles($titles...) {
+  $h_size: 1.4;
+  @each $title in $titles {
+    #{$title} {
+      @include size($h_size);
+    }
+    $h_size: $h_size - .2;
+  }
+}
+h1, h2, h3, h4, h5, h6 {
+  color: midnightblue;
+  font-weight: bold;
+  margin: .1em .2em;
+  &:hover .anchor {
+    padding-left: .4em;
+    margin-left: -.3em;
+    text-decoration: none;
+  }
+}
+@include generate_size_for_titles("h1", "h2", "h3", "h4", "h5", "h6");
+h1 {
+  & + figure {
+    margin-left: 300px;
+  }
+}
+h2 {
+  border-bottom-width: .2em;
+  border-bottom-style: solid;
+  border-bottom-color: midnightblue;
+}
+h6 {
+  color: grey;
+}
+/*Creates a line with inward radius*/
+/*hr sets the colors of the line*/
+hr {
+  background-color: ghostwhite;
+  border: 0px;
+  &::before, &::after {
+    background-color: white;
+    display: block;
+    content: "";
+    height: .6em;
+    margin-top: .8em 0;
+  }
+  /*hr:after sets the bottom inward radius !white background will hide elements!*/
+  &::after {
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+  }
+  &::before {
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+  }
+  /*override the first hr:before for esthetic*/
+  /*override the last hr:after for esthetic*/
+  &:first-child::before, &:last-child::after {
+    background-color: inherit;
+    height: 0;
+  }
+}
+/*hr:before sets the top inward radius !white background will hide elements!*/
+p, blockquote, ul, ol, dl, pre, table {
+  margin: .2em;
+  @include size(1);
+  padding: 0 .2em;
+}
+p {
+  opacity: .75;
+}
+ul.no-list, ol.no-list {
+  padding: 0px;
+  list-style-type: none;
+}
+table {
+  width: 100%;
+  overflow: auto;
+  word-break: keep-all;
+  border-spacing: 0;
+  & td {
+    padding: .2em .4em;
+    border-right: .1em solid rgb(0, 64, 64);
+    border-left: 0 solid rgb(0, 64, 64);
+    &:first-child {
+      border-left: .1em solid rgb(0, 64, 64);
+    }
+  }
+  & tr {
+    border-top: 0 solid rgb(0, 64, 64);
+    border-bottom: .1em solid rgb(0, 64, 64);
+    &:first-child {
+      border-top: .1em solid rgb(0, 64, 64);
+      td:first-child {
+        border-top-left-radius: .5em;
+      }
+      td:last-child {
+        border-top-right-radius: .5em;
+      }
+    }
+    &:last-child {
+      td:first-child {
+        border-bottom-left-radius: .5em;
+      }
+      td:last-child {
+        border-bottom-right-radius: .5em;
+      }
+    }
+    &:nth-child(2n) {
+      background-color: mintcream;
+    }
+  }
+}
+h3.alignrlh3 td {
+  border: 0px;
+  padding: 0;
+  margin: 0;
+  // & table {
+  //   font-size: 2em;
+  // }
+}
+img {
+  max-height: 1.1em;
+  box-sizing: border-box;
+  margin-bottom: -2px;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+p > img:first-child {
+  margin-left: 2px;
+}
+td > img {
+  margin: 0 5px;
+  margin-bottom: -2px;
+  max-width: 24px;
+}
+figure img:first-of-type {
+  max-height: 64px;
+  float: left;
+  margin-top: -9px;
+  margin-bottom: -6px;
+  margin-left: -34px;
+  margin-right: 20px;
+  border-radius: 6px;
+}
+a {
+  color: midnightblue;
+  text-decoration: underline;
+  &:link {
+    color: midnightblue;
+  }
+  &:visited {
+    color: mediumpurple;
+  }
+  &:hover {
+    background-color: azure;
+  }
+  &:not([href]) {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+p a {
+  color: aquamarine;
+}

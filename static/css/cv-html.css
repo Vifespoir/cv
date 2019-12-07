@@ -329,3 +329,8 @@ pre.editor-colors .gutter:not(.git-diff-icon) .line-number.git-line-removed::aft
   border-bottom: 1px dotted rgba(224, 82, 82, 0.5);
   pointer-events: none;
 }
+@page {
+  size: A4 portrait;
+  margin: 0;
+} 
+

@@ -1,0 +1,27 @@
+{
+  "paths": {
+    "source": "theme_source/",
+    "sass": "sass/",
+    "js": "js/",
+    "theme": "static/css/",
+    "static": "static/",
+    "regSass": "*.scss",
+    "regJs": "*.js",
+    "regFolder": "**/",
+    "output": "output/",
+    "regHtml": "*.html",
+    "content": "content/",
+    "translations": "translations/",
+    "plugins": "pelican-plugins/",
+    "pictures": "pics/",
+    "templates": "templates/",
+    "elements": "elements.html",
+    "landing": "landing.html"
+  },
+  "website": {
+    "name": "aMazingCube",
+    "url": "https://amazingcube.fr",
+    "blogurl": "https://blog.amazingcube.fr",
+    "rooturl": "https://amazingcube.fr"
+  }
+}

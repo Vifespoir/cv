@@ -1,0 +1,22 @@
+// @import "bourbon/css3/hidpi";
+/*Open+Sans:300,400,700
+Roboto:400,500,700*/
+html {
+  background-color: ghostwhite;
+  width: 21cm;
+  height: 29.7cm;
+}
+body {
+  overflow: auto;
+  border-style: solid;
+  border-color: ghostwhite;
+  border-width: .5em;
+  border-radius: .6em;
+  font-family: 'Roboto';
+  background-color: white;
+}
+@page {
+  width: 21cm;
+  height: 29.7cm;
+}
+@include hidpi();

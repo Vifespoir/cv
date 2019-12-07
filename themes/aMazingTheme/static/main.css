@@ -1,0 +1,280 @@
+/*Open+Sans:300,400,700
+Roboto:400,500,700*/
+@import 'https://fonts.googleapis.com/css?family=Roboto:500,900&subset=latin-ext';
+/* line 4, theme_source/sass/base/_base.scss */
+html {
+  background-color: ghostwhite;
+  width: 21cm;
+  height: 29.7cm;
+}
+
+/* line 9, theme_source/sass/base/_base.scss */
+body {
+  overflow: auto;
+  border-style: solid;
+  border-color: ghostwhite;
+  border-width: .5em;
+  border-radius: .6em;
+  font-family: 'Roboto';
+  background-color: white;
+}
+
+@page {
+  width: 21cm;
+  height: 29.7cm;
+}
+
+/*Open+Sans:300,400,700
+Roboto:400,500,700*/
+/* line 18, theme_source/sass/base/_typography.scss */
+h1, h2, h3, h4, h5, h6 {
+  color: midnightblue;
+  font-weight: bold;
+  margin: .1em .2em;
+}
+
+/* line 22, theme_source/sass/base/_typography.scss */
+h1:hover .anchor, h2:hover .anchor, h3:hover .anchor, h4:hover .anchor, h5:hover .anchor, h6:hover .anchor {
+  padding-left: .4em;
+  margin-left: -.3em;
+  text-decoration: none;
+}
+
+/* line 12, theme_source/sass/base/_typography.scss */
+h1 {
+  font-size: 1.4em;
+  line-height: 1.4em;
+}
+
+/* line 12, theme_source/sass/base/_typography.scss */
+h2 {
+  font-size: 1.2em;
+  line-height: 1.2em;
+}
+
+/* line 12, theme_source/sass/base/_typography.scss */
+h3 {
+  font-size: 1em;
+  line-height: 1em;
+}
+
+/* line 12, theme_source/sass/base/_typography.scss */
+h4 {
+  font-size: 0.8em;
+  line-height: 0.8em;
+}
+
+/* line 12, theme_source/sass/base/_typography.scss */
+h5 {
+  font-size: 0.6em;
+  line-height: 0.6em;
+}
+
+/* line 12, theme_source/sass/base/_typography.scss */
+h6 {
+  font-size: 0.4em;
+  line-height: 0.4em;
+}
+
+/* line 30, theme_source/sass/base/_typography.scss */
+h1 + figure {
+  margin-left: 300px;
+}
+
+/* line 34, theme_source/sass/base/_typography.scss */
+h2 {
+  border-bottom-width: .2em;
+  border-bottom-style: solid;
+  border-bottom-color: midnightblue;
+}
+
+/* line 39, theme_source/sass/base/_typography.scss */
+h6 {
+  color: grey;
+}
+
+/*Creates a line with inward radius*/
+/*hr sets the colors of the line*/
+/* line 44, theme_source/sass/base/_typography.scss */
+hr {
+  background-color: ghostwhite;
+  border: 0px;
+  /*hr:after sets the bottom inward radius !white background will hide elements!*/
+  /*override the first hr:before for esthetic*/
+  /*override the last hr:after for esthetic*/
+}
+
+/* line 47, theme_source/sass/base/_typography.scss */
+hr::before, hr::after {
+  background-color: white;
+  display: block;
+  content: "";
+  height: .6em;
+  margin-top: .8em 0;
+}
+
+/* line 55, theme_source/sass/base/_typography.scss */
+hr::after {
+  border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
+}
+
+/* line 59, theme_source/sass/base/_typography.scss */
+hr::before {
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+/* line 65, theme_source/sass/base/_typography.scss */
+hr:first-child::before, hr:last-child::after {
+  background-color: inherit;
+  height: 0;
+}
+
+/*hr:before sets the top inward radius !white background will hide elements!*/
+/* line 71, theme_source/sass/base/_typography.scss */
+p, blockquote, ul, ol, dl, pre, table {
+  margin: .2em;
+  font-size: 1em;
+  line-height: 1em;
+  padding: 0 .2em;
+}
+
+/* line 76, theme_source/sass/base/_typography.scss */
+p {
+  opacity: .75;
+}
+
+/* line 79, theme_source/sass/base/_typography.scss */
+ul.no-list, ol.no-list {
+  padding: 0px;
+  list-style-type: none;
+}
+
+/* line 83, theme_source/sass/base/_typography.scss */
+table {
+  width: 100%;
+  overflow: auto;
+  word-break: keep-all;
+  border-spacing: 0;
+}
+
+/* line 88, theme_source/sass/base/_typography.scss */
+table td {
+  padding: .2em .4em;
+  border-right: 0.1em solid #004040;
+  border-left: 0 solid #004040;
+}
+
+/* line 92, theme_source/sass/base/_typography.scss */
+table td:first-child {
+  border-left: 0.1em solid #004040;
+}
+
+/* line 96, theme_source/sass/base/_typography.scss */
+table tr {
+  border-top: 0 solid #004040;
+  border-bottom: 0.1em solid #004040;
+}
+
+/* line 99, theme_source/sass/base/_typography.scss */
+table tr:first-child {
+  border-top: 0.1em solid #004040;
+}
+
+/* line 101, theme_source/sass/base/_typography.scss */
+table tr:first-child td:first-child {
+  border-top-left-radius: .5em;
+}
+
+/* line 104, theme_source/sass/base/_typography.scss */
+table tr:first-child td:last-child {
+  border-top-right-radius: .5em;
+}
+
+/* line 109, theme_source/sass/base/_typography.scss */
+table tr:last-child td:first-child {
+  border-bottom-left-radius: .5em;
+}
+
+/* line 112, theme_source/sass/base/_typography.scss */
+table tr:last-child td:last-child {
+  border-bottom-right-radius: .5em;
+}
+
+/* line 116, theme_source/sass/base/_typography.scss */
+table tr:nth-child(2n) {
+  background-color: mintcream;
+}
+
+/* line 121, theme_source/sass/base/_typography.scss */
+h3.alignrlh3 td {
+  border: 0px;
+  padding: 0;
+  margin: 0;
+}
+
+/* line 129, theme_source/sass/base/_typography.scss */
+img {
+  max-height: 1.1em;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-bottom: -2px;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+/* line 136, theme_source/sass/base/_typography.scss */
+p > img:first-child {
+  margin-left: 2px;
+}
+
+/* line 139, theme_source/sass/base/_typography.scss */
+td > img {
+  margin: 0 5px;
+  margin-bottom: -2px;
+  max-width: 24px;
+}
+
+/* line 144, theme_source/sass/base/_typography.scss */
+figure img:first-of-type {
+  max-height: 64px;
+  float: left;
+  margin-top: -9px;
+  margin-bottom: -6px;
+  margin-left: -34px;
+  margin-right: 20px;
+  border-radius: 6px;
+}
+
+/* line 153, theme_source/sass/base/_typography.scss */
+a {
+  color: midnightblue;
+  text-decoration: underline;
+}
+
+/* line 156, theme_source/sass/base/_typography.scss */
+a:link {
+  color: midnightblue;
+}
+
+/* line 159, theme_source/sass/base/_typography.scss */
+a:visited {
+  color: mediumpurple;
+}
+
+/* line 162, theme_source/sass/base/_typography.scss */
+a:hover {
+  background-color: azure;
+}
+
+/* line 165, theme_source/sass/base/_typography.scss */
+a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* line 170, theme_source/sass/base/_typography.scss */
+p a {
+  color: aquamarine;
+}
